@@ -60,18 +60,6 @@ src/
 
 ------------------------------
 
-## 🧑‍💻 Getting Started
-
-`git clone https://github.com/ManoloSainas/FoodApp.git`
-
-`cd FoodApp`
-
-`npm install`
-
-`npm start`
-
-------------------------------
-
 ## 👨‍🎓 About me
 - 📧 [sainas.manolo@gmail.com](mailto:sainas.manolo@gmail.com)  
 - 🔗 [GitHub](https://github.com/ManoloSainas)  
