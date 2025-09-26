@@ -7,8 +7,11 @@ This Single page application was developed during my university internship at St
 
 ## 📸 Demo
 
-> ⚠️ The token for API requests maight be disabled by Stackhouse SRL at any time.  
-> You can still see how the app works by checking the [Final result - videos and screenshots](https://github.com/ManoloSainas/FoodApp/tree/main/Final%20result%20-%20videos%20and%20screenshots).
+⚠️ The token for API requests might be disabled by Stackhouse SRL at any time.
+
+You can still see how the app works by watching a video on YouTube: [https://www.youtube.com/watch?v=BlQM25jyTy8](https://www.youtube.com/watch?v=BlQM25jyTy8)
+
+Additionally, you can view videos and screenshots by checking the [Final result - videos and screenshots](https://github.com/ManoloSainas/FoodApp/tree/main/Final%20result%20-%20videos%20and%20screenshots).
 
 ------------------------------
 
