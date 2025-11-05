@@ -15,19 +15,6 @@ Additionally, you can view videos and screenshots by checking the [Final result 
 
 ------------------------------
 
-## 🚀 Features
-
-- **Product Catalog** with category filters and a search bar  
-- **Product Detail Page** displaying selected product information  
-- **Customer Reviews** for each product  
-- **Shopping Cart** with dynamic order summary  
-- **Client-side Routing** with React Router  
-- **State Management** using Redux Toolkit and Context API  
-- **Toast Notifications** for real-time user feedback  
-- **Currency Converter**: convert prices between Euro, Dollar, and Yen  
-
-------------------------------
-
 ## 🛠️ Technologies Used
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -43,6 +30,19 @@ Additionally, you can view videos and screenshots by checking the [Final result 
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![React-Toastify](https://img.shields.io/badge/React--Toastify-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+------------------------------
+
+## 🚀 Features
+
+- **Product Catalog** with category filters and a search bar  
+- **Product Detail Page** displaying selected product information  
+- **Customer Reviews** for each product  
+- **Shopping Cart** with dynamic order summary  
+- **Client-side Routing** with React Router  
+- **State Management** using Redux Toolkit and Context API  
+- **Toast Notifications** for real-time user feedback  
+- **Currency Converter**: convert prices between Euro, Dollar, and Yen  
 
 ------------------------------
 
