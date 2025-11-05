@@ -30,12 +30,19 @@ Additionally, you can view videos and screenshots by checking the [Final result 
 
 ## 🛠️ Technologies Used
 
-- React, TypeScript, Vite
-- Redux Toolkit, Redux Persist, React Context
-- React Router, React Hooks
-- Styled Components, Flexbox, Grid
-- React-Toastify
-- Git
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-CF0000?style=for-the-badge&logo=vite&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Persist](https://img.shields.io/badge/Redux_Persist-764ABC?style=for-the-badge)
+![React Context](https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react&logoColor=white)
+![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=for-the-badge)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![React-Toastify](https://img.shields.io/badge/React--Toastify-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ------------------------------
 
